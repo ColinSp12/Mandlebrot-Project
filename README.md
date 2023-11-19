@@ -7,3 +7,5 @@ Scroll Wheel Down = less iterations
 Scroll Wheel Up = more iterations
 
 Left mouse click to zoom in to the canvas
+
+Can run in developer mode or through the executable.
